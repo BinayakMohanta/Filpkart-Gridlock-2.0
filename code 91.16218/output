@@ -1,0 +1,176 @@
+Train Shape: (77299, 11)
+Test Shape: (41778, 10)
+
+Fold 1
+0:	learn: 0.1062447	test: 0.1066469	best: 0.1066469 (0)	total: 386ms	remaining: 32m 7s
+200:	learn: 0.0325398	test: 0.0320425	best: 0.0320425 (200)	total: 50.5s	remaining: 20m 5s
+400:	learn: 0.0299982	test: 0.0299939	best: 0.0299939 (400)	total: 1m 15s	remaining: 14m 26s
+600:	learn: 0.0284572	test: 0.0288947	best: 0.0288947 (600)	total: 1m 41s	remaining: 12m 21s
+800:	learn: 0.0273984	test: 0.0281334	best: 0.0281334 (800)	total: 2m 8s	remaining: 11m 13s
+1000:	learn: 0.0265577	test: 0.0276271	best: 0.0276271 (1000)	total: 2m 34s	remaining: 10m 17s
+1200:	learn: 0.0258627	test: 0.0272234	best: 0.0272234 (1200)	total: 3m 3s	remaining: 9m 39s
+1400:	learn: 0.0252501	test: 0.0269058	best: 0.0269057 (1399)	total: 3m 29s	remaining: 8m 59s
+1600:	learn: 0.0246862	test: 0.0265793	best: 0.0265793 (1600)	total: 3m 56s	remaining: 8m 21s
+1800:	learn: 0.0242287	test: 0.0263480	best: 0.0263480 (1800)	total: 4m 24s	remaining: 7m 49s
+2000:	learn: 0.0238272	test: 0.0261863	best: 0.0261863 (2000)	total: 4m 51s	remaining: 7m 16s
+2200:	learn: 0.0234852	test: 0.0260531	best: 0.0260531 (2200)	total: 5m 17s	remaining: 6m 43s
+2400:	learn: 0.0231802	test: 0.0259548	best: 0.0259548 (2400)	total: 5m 42s	remaining: 6m 11s
+2600:	learn: 0.0228718	test: 0.0258244	best: 0.0258244 (2600)	total: 6m 8s	remaining: 5m 39s
+2800:	learn: 0.0226013	test: 0.0257544	best: 0.0257544 (2800)	total: 6m 35s	remaining: 5m 10s
+3000:	learn: 0.0223324	test: 0.0256711	best: 0.0256703 (2994)	total: 7m 1s	remaining: 4m 40s
+3200:	learn: 0.0220782	test: 0.0256027	best: 0.0256025 (3192)	total: 7m 27s	remaining: 4m 11s
+3400:	learn: 0.0218499	test: 0.0255449	best: 0.0255449 (3400)	total: 7m 52s	remaining: 3m 42s
+3600:	learn: 0.0216190	test: 0.0254814	best: 0.0254812 (3599)	total: 8m 18s	remaining: 3m 13s
+3800:	learn: 0.0213973	test: 0.0254335	best: 0.0254335 (3800)	total: 8m 45s	remaining: 2m 45s
+4000:	learn: 0.0212064	test: 0.0254001	best: 0.0254001 (4000)	total: 9m 11s	remaining: 2m 17s
+4200:	learn: 0.0210048	test: 0.0253570	best: 0.0253563 (4195)	total: 9m 38s	remaining: 1m 49s
+4400:	learn: 0.0208118	test: 0.0253193	best: 0.0253193 (4400)	total: 10m 4s	remaining: 1m 22s
+4600:	learn: 0.0206243	test: 0.0252967	best: 0.0252955 (4586)	total: 10m 30s	remaining: 54.7s
+4800:	learn: 0.0204566	test: 0.0252708	best: 0.0252706 (4795)	total: 10m 57s	remaining: 27.2s
+4999:	learn: 0.0202911	test: 0.0252543	best: 0.0252542 (4998)	total: 11m 23s	remaining: 0us
+
+bestTest = 0.02525415943
+bestIteration = 4998
+
+Shrink model to first 4999 iterations.
+
+Fold 2
+0:	learn: 0.1058706	test: 0.1079505	best: 0.1079505 (0)	total: 167ms	remaining: 13m 52s
+200:	learn: 0.0324156	test: 0.0329191	best: 0.0329191 (200)	total: 22.5s	remaining: 8m 58s
+400:	learn: 0.0298511	test: 0.0306293	best: 0.0306293 (400)	total: 48.7s	remaining: 9m 18s
+600:	learn: 0.0284565	test: 0.0295030	best: 0.0295030 (600)	total: 1m 14s	remaining: 9m 6s
+800:	learn: 0.0274242	test: 0.0287508	best: 0.0287508 (800)	total: 1m 41s	remaining: 8m 49s
+1000:	learn: 0.0265377	test: 0.0281114	best: 0.0281114 (1000)	total: 2m 8s	remaining: 8m 35s
+1200:	learn: 0.0257995	test: 0.0276655	best: 0.0276655 (1200)	total: 2m 36s	remaining: 8m 15s
+1400:	learn: 0.0252482	test: 0.0273705	best: 0.0273705 (1400)	total: 3m 4s	remaining: 7m 54s
+1600:	learn: 0.0247640	test: 0.0271268	best: 0.0271263 (1598)	total: 3m 33s	remaining: 7m 32s
+1800:	learn: 0.0243447	test: 0.0269560	best: 0.0269560 (1800)	total: 4m 1s	remaining: 7m 8s
+2000:	learn: 0.0239752	test: 0.0268026	best: 0.0268026 (2000)	total: 4m 27s	remaining: 6m 41s
+2200:	learn: 0.0236466	test: 0.0266621	best: 0.0266621 (2200)	total: 4m 54s	remaining: 6m 14s
+2400:	learn: 0.0233417	test: 0.0265555	best: 0.0265555 (2400)	total: 5m 20s	remaining: 5m 46s
+2600:	learn: 0.0230703	test: 0.0264829	best: 0.0264818 (2595)	total: 5m 46s	remaining: 5m 19s
+2800:	learn: 0.0227853	test: 0.0263817	best: 0.0263817 (2800)	total: 6m 11s	remaining: 4m 51s
+3000:	learn: 0.0225606	test: 0.0263279	best: 0.0263276 (2997)	total: 6m 38s	remaining: 4m 25s
+3200:	learn: 0.0223291	test: 0.0262637	best: 0.0262637 (3200)	total: 7m 5s	remaining: 3m 59s
+3400:	learn: 0.0220978	test: 0.0261817	best: 0.0261815 (3396)	total: 7m 32s	remaining: 3m 32s
+3600:	learn: 0.0218927	test: 0.0261454	best: 0.0261440 (3592)	total: 7m 59s	remaining: 3m 6s
+3800:	learn: 0.0216858	test: 0.0260908	best: 0.0260908 (3800)	total: 8m 25s	remaining: 2m 39s
+4000:	learn: 0.0214801	test: 0.0260516	best: 0.0260506 (3992)	total: 8m 52s	remaining: 2m 12s
+4200:	learn: 0.0212577	test: 0.0259729	best: 0.0259729 (4200)	total: 9m 20s	remaining: 1m 46s
+4400:	learn: 0.0210798	test: 0.0259415	best: 0.0259412 (4373)	total: 9m 48s	remaining: 1m 20s
+4600:	learn: 0.0208982	test: 0.0259209	best: 0.0259206 (4599)	total: 10m 15s	remaining: 53.4s
+4800:	learn: 0.0207119	test: 0.0258913	best: 0.0258904 (4796)	total: 10m 42s	remaining: 26.6s
+4999:	learn: 0.0205515	test: 0.0258677	best: 0.0258672 (4993)	total: 11m 9s	remaining: 0us
+
+bestTest = 0.02586723195
+bestIteration = 4993
+
+Shrink model to first 4994 iterations.
+
+Fold 3
+0:	learn: 0.1064122	test: 0.1060883	best: 0.1060883 (0)	total: 254ms	remaining: 21m 8s
+200:	learn: 0.0322248	test: 0.0317219	best: 0.0317219 (200)	total: 32.9s	remaining: 13m 4s
+400:	learn: 0.0297480	test: 0.0296025	best: 0.0296025 (400)	total: 57.9s	remaining: 11m 3s
+600:	learn: 0.0283404	test: 0.0285545	best: 0.0285545 (600)	total: 1m 23s	remaining: 10m 7s
+800:	learn: 0.0272469	test: 0.0277775	best: 0.0277775 (800)	total: 1m 49s	remaining: 9m 33s
+1000:	learn: 0.0264558	test: 0.0272778	best: 0.0272778 (1000)	total: 2m 16s	remaining: 9m 5s
+1200:	learn: 0.0258195	test: 0.0269030	best: 0.0269030 (1200)	total: 2m 43s	remaining: 8m 36s
+1400:	learn: 0.0252962	test: 0.0266205	best: 0.0266205 (1400)	total: 3m 9s	remaining: 8m 7s
+1600:	learn: 0.0247672	test: 0.0263438	best: 0.0263438 (1600)	total: 3m 36s	remaining: 7m 39s
+1800:	learn: 0.0243198	test: 0.0261472	best: 0.0261472 (1798)	total: 4m 2s	remaining: 7m 11s
+2000:	learn: 0.0238946	test: 0.0259587	best: 0.0259580 (1998)	total: 4m 29s	remaining: 6m 44s
+2200:	learn: 0.0235427	test: 0.0258253	best: 0.0258253 (2200)	total: 4m 56s	remaining: 6m 17s
+2400:	learn: 0.0232272	test: 0.0257046	best: 0.0257045 (2399)	total: 5m 23s	remaining: 5m 50s
+2600:	learn: 0.0229079	test: 0.0255693	best: 0.0255684 (2599)	total: 5m 50s	remaining: 5m 23s
+2800:	learn: 0.0226181	test: 0.0254738	best: 0.0254729 (2798)	total: 6m 17s	remaining: 4m 56s
+3000:	learn: 0.0223426	test: 0.0254017	best: 0.0254016 (2994)	total: 6m 45s	remaining: 4m 29s
+3200:	learn: 0.0220915	test: 0.0253211	best: 0.0253211 (3200)	total: 7m 12s	remaining: 4m 2s
+3400:	learn: 0.0218683	test: 0.0252586	best: 0.0252585 (3399)	total: 7m 39s	remaining: 3m 35s
+3600:	learn: 0.0216496	test: 0.0252069	best: 0.0252069 (3599)	total: 8m 5s	remaining: 3m 8s
+3800:	learn: 0.0214206	test: 0.0251531	best: 0.0251531 (3800)	total: 8m 33s	remaining: 2m 42s
+4000:	learn: 0.0212078	test: 0.0251041	best: 0.0251041 (4000)	total: 9m	remaining: 2m 14s
+4200:	learn: 0.0210031	test: 0.0250648	best: 0.0250648 (4200)	total: 9m 26s	remaining: 1m 47s
+4400:	learn: 0.0208186	test: 0.0250366	best: 0.0250361 (4390)	total: 9m 53s	remaining: 1m 20s
+4600:	learn: 0.0206105	test: 0.0249955	best: 0.0249955 (4600)	total: 10m 20s	remaining: 53.8s
+4800:	learn: 0.0204326	test: 0.0249718	best: 0.0249711 (4794)	total: 10m 54s	remaining: 27.1s
+4999:	learn: 0.0202639	test: 0.0249474	best: 0.0249470 (4990)	total: 11m 22s	remaining: 0us
+
+bestTest = 0.0249470382
+bestIteration = 4990
+
+Shrink model to first 4991 iterations.
+
+Fold 4
+0:	learn: 0.1068625	test: 0.1042003	best: 0.1042003 (0)	total: 133ms	remaining: 11m 5s
+200:	learn: 0.0321603	test: 0.0320074	best: 0.0320074 (200)	total: 23.1s	remaining: 9m 12s
+400:	learn: 0.0297510	test: 0.0299780	best: 0.0299780 (400)	total: 47.8s	remaining: 9m 8s
+600:	learn: 0.0283695	test: 0.0289671	best: 0.0289671 (600)	total: 1m 13s	remaining: 8m 57s
+800:	learn: 0.0273746	test: 0.0283038	best: 0.0283038 (800)	total: 1m 39s	remaining: 8m 39s
+1000:	learn: 0.0266323	test: 0.0278433	best: 0.0278433 (1000)	total: 2m 5s	remaining: 8m 21s
+1200:	learn: 0.0258585	test: 0.0273463	best: 0.0273463 (1200)	total: 2m 31s	remaining: 7m 59s
+1400:	learn: 0.0252762	test: 0.0270067	best: 0.0270067 (1400)	total: 2m 57s	remaining: 7m 36s
+1600:	learn: 0.0247217	test: 0.0267329	best: 0.0267329 (1600)	total: 3m 23s	remaining: 7m 12s
+1800:	learn: 0.0242972	test: 0.0265518	best: 0.0265517 (1797)	total: 3m 50s	remaining: 6m 49s
+2000:	learn: 0.0238976	test: 0.0264039	best: 0.0264039 (2000)	total: 4m 18s	remaining: 6m 26s
+2200:	learn: 0.0235433	test: 0.0262936	best: 0.0262936 (2200)	total: 4m 44s	remaining: 6m 2s
+2400:	learn: 0.0232131	test: 0.0261832	best: 0.0261830 (2399)	total: 5m 11s	remaining: 5m 36s
+2600:	learn: 0.0229078	test: 0.0260990	best: 0.0260985 (2592)	total: 5m 38s	remaining: 5m 11s
+2800:	learn: 0.0226265	test: 0.0260301	best: 0.0260296 (2798)	total: 6m 4s	remaining: 4m 46s
+3000:	learn: 0.0223954	test: 0.0259779	best: 0.0259776 (2995)	total: 6m 31s	remaining: 4m 20s
+3200:	learn: 0.0221562	test: 0.0259203	best: 0.0259193 (3187)	total: 6m 58s	remaining: 3m 55s
+3400:	learn: 0.0219418	test: 0.0258817	best: 0.0258817 (3400)	total: 7m 25s	remaining: 3m 29s
+3600:	learn: 0.0217358	test: 0.0258458	best: 0.0258458 (3599)	total: 7m 52s	remaining: 3m 3s
+3800:	learn: 0.0215187	test: 0.0258082	best: 0.0258081 (3798)	total: 8m 18s	remaining: 2m 37s
+4000:	learn: 0.0213177	test: 0.0257783	best: 0.0257782 (3999)	total: 8m 47s	remaining: 2m 11s
+4200:	learn: 0.0211060	test: 0.0257323	best: 0.0257317 (4188)	total: 9m 23s	remaining: 1m 47s
+4400:	learn: 0.0209091	test: 0.0257018	best: 0.0257011 (4386)	total: 9m 51s	remaining: 1m 20s
+4600:	learn: 0.0207269	test: 0.0256781	best: 0.0256773 (4564)	total: 10m 18s	remaining: 53.6s
+4800:	learn: 0.0205309	test: 0.0256514	best: 0.0256509 (4775)	total: 10m 45s	remaining: 26.8s
+4999:	learn: 0.0203616	test: 0.0256383	best: 0.0256380 (4995)	total: 11m 12s	remaining: 0us
+
+bestTest = 0.02563800454
+bestIteration = 4995
+
+Shrink model to first 4996 iterations.
+
+Fold 5
+0:	learn: 0.1062313	test: 0.1066913	best: 0.1066913 (0)	total: 138ms	remaining: 11m 31s
+200:	learn: 0.0319898	test: 0.0320682	best: 0.0320682 (200)	total: 22.3s	remaining: 8m 52s
+400:	learn: 0.0296540	test: 0.0299359	best: 0.0299359 (400)	total: 46.6s	remaining: 8m 53s
+600:	learn: 0.0283689	test: 0.0288653	best: 0.0288653 (600)	total: 1m 10s	remaining: 8m 37s
+800:	learn: 0.0274315	test: 0.0281744	best: 0.0281744 (800)	total: 1m 35s	remaining: 8m 20s
+1000:	learn: 0.0266632	test: 0.0276406	best: 0.0276406 (1000)	total: 2m 1s	remaining: 8m 5s
+1200:	learn: 0.0260186	test: 0.0272175	best: 0.0272175 (1200)	total: 2m 27s	remaining: 7m 45s
+1400:	learn: 0.0254247	test: 0.0268445	best: 0.0268442 (1399)	total: 2m 53s	remaining: 7m 24s
+1600:	learn: 0.0249446	test: 0.0265910	best: 0.0265901 (1592)	total: 3m 18s	remaining: 7m 1s
+1800:	learn: 0.0245041	test: 0.0263844	best: 0.0263844 (1800)	total: 3m 44s	remaining: 6m 38s
+2000:	learn: 0.0240947	test: 0.0262059	best: 0.0262059 (2000)	total: 4m 10s	remaining: 6m 14s
+2200:	learn: 0.0237365	test: 0.0260526	best: 0.0260524 (2199)	total: 4m 35s	remaining: 5m 50s
+2400:	learn: 0.0234586	test: 0.0259643	best: 0.0259643 (2400)	total: 5m 2s	remaining: 5m 27s
+2600:	learn: 0.0231609	test: 0.0258624	best: 0.0258624 (2600)	total: 5m 28s	remaining: 5m 3s
+2800:	learn: 0.0228915	test: 0.0257806	best: 0.0257806 (2800)	total: 5m 54s	remaining: 4m 38s
+3000:	learn: 0.0226217	test: 0.0256829	best: 0.0256826 (2998)	total: 6m 21s	remaining: 4m 13s
+3200:	learn: 0.0223765	test: 0.0256075	best: 0.0256071 (3196)	total: 6m 47s	remaining: 3m 48s
+3400:	learn: 0.0221506	test: 0.0255412	best: 0.0255412 (3400)	total: 7m 13s	remaining: 3m 23s
+3600:	learn: 0.0219535	test: 0.0255016	best: 0.0255014 (3595)	total: 7m 39s	remaining: 2m 58s
+3800:	learn: 0.0217509	test: 0.0254479	best: 0.0254479 (3800)	total: 8m 15s	remaining: 2m 36s
+4000:	learn: 0.0215331	test: 0.0253894	best: 0.0253891 (3997)	total: 8m 41s	remaining: 2m 10s
+4200:	learn: 0.0213370	test: 0.0253468	best: 0.0253465 (4197)	total: 9m 8s	remaining: 1m 44s
+4400:	learn: 0.0211651	test: 0.0253218	best: 0.0253206 (4392)	total: 9m 34s	remaining: 1m 18s
+4600:	learn: 0.0209977	test: 0.0252871	best: 0.0252868 (4599)	total: 10m 1s	remaining: 52.2s
+4800:	learn: 0.0208198	test: 0.0252574	best: 0.0252571 (4799)	total: 10m 28s	remaining: 26s
+4999:	learn: 0.0206538	test: 0.0252384	best: 0.0252384 (4999)	total: 10m 55s	remaining: 0us
+
+bestTest = 0.02523841799
+bestIteration = 4999
+
+
+CV R2 Score: 0.9501337839194717
+
+submission.csv generated successfully
+   Index    demand
+0      0  0.058033
+1      1  0.026627
+2      2  0.013465
+3      3  0.025893
+4      4  0.058352
